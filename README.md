@@ -1,5 +1,4 @@
 # Plants
-
 ![1](https://github.com/sumeyyekilincc/PlantsApp/assets/143969693/11f3b51e-ab6e-4eea-a0ba-b0bbb3444cc3)
 ![2](https://github.com/sumeyyekilincc/PlantsApp/assets/143969693/d8d78601-a3b8-42cd-9af0-ccec6111cfb5)
 ![3](https://github.com/sumeyyekilincc/PlantsApp/assets/143969693/9ef034fd-39fd-4182-bc3b-1027bdbaba6f)
